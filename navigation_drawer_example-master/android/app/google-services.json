@@ -1,0 +1,39 @@
+ {
+  "project_info": {
+    "project_number": "210912243587",
+    "project_id": "eye-of-horus-6dd1a",
+    "storage_bucket": "eye-of-horus-6dd1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210912243587:android:d6ac08f159cf76b5e490b6",
+        "android_client_info": {
+          "package_name": "com.eye_of_horus.navigation_drawer_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210912243587-ji3npou5558rn1nqc9c4lkaclfquqaf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAoR0lLfepMOKnBfhTfSPB1lVhsO_EdB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210912243587-ji3npou5558rn1nqc9c4lkaclfquqaf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
